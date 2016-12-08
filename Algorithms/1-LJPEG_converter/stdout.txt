@@ -1,0 +1,16 @@
+Info filename: C_0004_1.RIGHT_MLO.LJPEG.txt
+Caution: precision type: 16 not 8 or 12.
+> GW:2968  GH:4648  R:0
+>> C:1  N:C_0004_1.RIGHT_MLO.LJPEG.1  W:2968  H:4648  hf:1  vf:1
+jpge/jpgd example app
+Source file: "ho.bmp", image resolution: 2968x4648, actual comps: 3
+Writing JPEG image to file: ho.jpeg
+Compressed file size: 588162, bits/pixel: 0.341
+Compression time: 567.972ms, Decompression time: 520.228ms
+Error Max: 30.000000, Mean: 4.008419, Mean^2: 9.141614, RMSE: 3.023510, PSNR: 38.520575
+Success.
+2968,464813795264
+0
+1826212.391076
+1141.552952
+min=0 max=4095 divided=4095 average=4094 media=1142 bits=12
